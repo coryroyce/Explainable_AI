@@ -5,7 +5,7 @@ Collection of explainable AI notebooks and projects.
 ## Explainability with Multiple Regression Models
 
 - Demonstrate a way to explore the explainability of multiple regrssion models with [SHAP](https://github.com/slundberg/shap).
-- View ipynb [here]() (Recomend opening and running the entire notebook in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb))
+- View ipynb [here](https://github.com/coryroyce/Explainable_AI/blob/main/Notebooks/SHAP_Values_for_Multiple_Regression_Models.ipynb) (Recommend downloading and running the entire notebook in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb))
 
 <br/>
 
