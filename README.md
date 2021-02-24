@@ -13,6 +13,4 @@ Collection of explainable AI notebooks and projects.
 
 Apply Shapely values to a multiple linear regression model to explore each the effects of the features on the multiple outputs/labels.
 
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<br />
