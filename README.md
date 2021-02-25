@@ -1,6 +1,6 @@
 # Explainable AI
 
-Collection of explainable AI notebooks and projects.
+Opening the "black box" of machine learning models has been huge in not only understanding the models we create, but then also communicating the insights to others. As I encounter different use cases for explainable AI, I'm distilling the insights into manageable chunks and sharing them openly.
 
 ## Explainability with Multiple Regression Models
 
